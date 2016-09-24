@@ -12,13 +12,11 @@ A flexible WordPress project from scratch.
 ## Installation
 
 1. Setup server config file (server block or virtual host) for your site. You do not need to create MySQL database, it will be created while installing WordPress.
-
 2. Run these two commands on your command line respectively:
 ```bash
 $ composer create-project wpstack/wp-scratch /path/to/project/directory
 $ cd /path/to/project/directory && ./install
 ```
-
 3. Follow instructions to finish the installation. It's easy!
 
 From now on, to install a new site, you just need to setup a new server config file, go the `/path/to/project/directory` and run `./install` on command line.
