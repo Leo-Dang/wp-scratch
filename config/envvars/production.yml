@@ -1,0 +1,7 @@
+disabled_commands:
+  - eval
+  - shell
+  - server
+  - db drop
+  - theme install
+  - plugin install

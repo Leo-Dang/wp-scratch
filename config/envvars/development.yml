@@ -1,0 +1,4 @@
+# Alias to staging site.
+# @staging:
+# 	ssh: user@staging.example.com
+#	  path: /var/www/example.com/public/wordpress
