@@ -1,0 +1,10 @@
+*.log
+cache
+vendor
+.vagrant
+.DS_Store
+node_modules
+config/*.php
+composer.lock
+public/upgrade
+public/wordpress
